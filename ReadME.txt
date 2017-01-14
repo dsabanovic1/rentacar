@@ -16,7 +16,8 @@ u select-box ih dodati odakle bi se birali podaci za tabelu rezervacija(vozilo i
 key u rezervaciji).
 
 
-
+Napravio sam novi repozitorij za cetvrtu spirali jer mi se stari nesto zeznuo 
+link na stari repozitorij: https://github.com/dsabanovic1/Rent-a-car
 
 
  http://rentacaragencija-rentacar.44fs.preview.openshiftapps.com 
