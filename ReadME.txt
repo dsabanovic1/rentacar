@@ -19,5 +19,5 @@ key u rezervaciji).
 Napravio sam novi repozitorij za cetvrtu spirali jer mi se stari nesto zeznuo 
 link na stari repozitorij: https://github.com/dsabanovic1/Rent-a-car
 
-
- http://rentacaragencija-rentacar.44fs.preview.openshiftapps.com 
+Novi link na deploymenta:
+http://rentacar-rentacar.44fs.preview.openshiftapps.com
